@@ -1,4 +1,4 @@
-import { Header, Main, Footer } from 'src/components'
+import { Header, Main } from 'src/components'
 import 'src/styles/index.scss'
 
 function App() {
